@@ -1,0 +1,11 @@
+CustomerID,FirstName,LastName,Gender,Age,SubscriptionType,SubscriptionStart,SubscriptionEnd,TotalUsageHours,TotalBillingAmount
+101,John,Doe,Male,35,Monthly,2022-01-01,2022-12-31,500,60.00
+102,Jane,Smith,Female,28,Monthly,2022-02-01,2022-12-31,450,55.00
+103,Bob,Johnson,Male,45,Annual,2022-03-01,2023-03-01,600,120.00
+104,Emily,Williams,Female,32,Monthly,2022-04-01,2022-12-31,400,50.00
+105,Michael,Brown,Male,40,Monthly,2022-05-01,2022-12-31,550,65.00
+106,Susan,Miller,Female,50,Annual,2022-06-01,2023-06-01,700,140.00
+107,David,Davis,Male,29,Monthly,2022-07-01,2022-12-31,350,45.00
+108,Lisa,Anderson,Female,38,Monthly,2022-08-01,2022-12-31,480,58.00
+109,Chris,Wilson,Male,42,Monthly,2022-09-01,2022-12-31,510,62.00
+110,Mary,Clark,Female,31,Monthly,2022-10-01,2022-12-31,420,52.00
