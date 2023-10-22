@@ -1,0 +1,2 @@
+URL = "https://www.google.com/maps/place/Cl%C3%ADnica+CEME/@40.4230919,-3.6843344,17z/data=!3m1!4b1!4m6!3m5!1s0xd4228a2ba519339:0x863b9f9e7cf6e5ac!8m2!3d40.4230878!4d-3.6817595!16s%2Fg%2F12vr2lz44?entry=ttu"
+DriverLocation = "chromedriver.exe"
